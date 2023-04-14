@@ -60,9 +60,11 @@ def run():
         "ADIOS",
         "JAVA",
         "HERMANO",
+        "HERMANA",
         "FANTASMA",
         "CORAZON",
-        "ALGODON"
+        "ALGODON",
+        "COMI"
     ]
     
     word = random.choice(DB)
